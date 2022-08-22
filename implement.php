@@ -1,5 +1,9 @@
 <?php
 
+/*
+Author: Arafat Hossain
+ */
+
 include 'config/database.php';
 
 $data = new Databases();

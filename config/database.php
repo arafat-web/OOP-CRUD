@@ -1,4 +1,8 @@
 <?php
+/*
+Author: Arafat Hossain
+ */
+
 include 'define.php';
 class Databases
 {
